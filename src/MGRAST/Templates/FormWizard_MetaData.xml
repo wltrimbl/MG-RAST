@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf8"?>
 
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:noNamespaceSchemaLocation="FormWizard_MetaData.xsd">
@@ -3189,7 +3189,7 @@
 	</question>
 	<question>
 		<text>Microbial biomass</text>
-		<name migs="O" definition="'the part of the organic matter in the soil that constitutes living microorganisms smaller than 5-10 µm. IF you keep this, you would need to have correction factors used for conversion to the final units, which should be mg C (or N)/kg soil).'" >microbial_biomass</name>
+		<name migs="O" definition="'the part of the organic matter in the soil that constitutes living microorganisms smaller than 5-10 Âµm. IF you keep this, you would need to have correction factors used for conversion to the final units, which should be mg C (or N)/kg soil).'" >microbial_biomass</name>
 	</question>
 	<question>
 		<text>Microbial biomass method</text>

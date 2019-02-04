@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="utf-8"?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:noNamespaceSchemaLocation="FormWizard_MetaData.xsd">
 <step category="Environmentanl Package" exclusive="1">
@@ -1602,7 +1602,7 @@
 <type>Temperature</type>	</questions>
 	<questions>
 		<text>Seasonal environment</text>
-		<name migs="M" definition="'treatment involving an exposure to a particular season (e.g. winter, summer, rabi, rainy etcÉ)'" >season_environment</name>
+		<name migs="M" definition="'treatment involving an exposure to a particular season (e.g. winter, summer, rabi, rainy etc.)'" >season_environment</name>
 	</questions>
 	<questions>
 		<text>Standing water regimen</text>
@@ -2002,7 +2002,7 @@
 <type>OOD_List</type>	</questions>
 	<questions>
 		<text>Slope gradient</text>
-		<name migs="M" definition="commonly called Òslope.Ó  The angle between ground surface and a horizontal line (in percent).  This is the direction that overland water would flow.  This measure is usually taken with a hand level meter or clinometer. " >slope_gradient</name>
+		<name migs="M" definition="commonly called slope.  The angle between ground surface and a horizontal line (in percent).  This is the direction that overland water would flow.  This measure is usually taken with a hand level meter or clinometer. " >slope_gradient</name>
 	</questions>
 	<questions>
 		<text>Slope aspect</text>
@@ -2050,7 +2050,7 @@
 	</questions>
 	<questions>
 		<text>Microbial biomass</text>
-		<name migs="M" definition="'the part of the organic matter in the soil that constitutes living microorganisms smaller than 5-10 µm. IF you keep this, you would need to have correction factors used for conversion to the final units, which should be mg C (or N)/kg soil).'" >microbial_biomass</name>
+		<name migs="M" definition="'the part of the organic matter in the soil that constitutes living microorganisms smaller than 5-10 Âµm. IF you keep this, you would need to have correction factors used for conversion to the final units, which should be mg C (or N)/kg soil).'" >microbial_biomass</name>
 	</questions>
 	<questions>
 		<text>Microbial biomass method</text>
@@ -2140,7 +2140,7 @@
 	</questions>
 	<questions>
 		<text>Organic particles</text>
-		<name migs="M" definition="'concentration of particles such as faeces, hairs, food, vomit, paper fibers, plant material, humus, etcÉ'" >org_particles</name>
+		<name migs="M" definition="'concentration of particles such as faeces, hairs, food, vomit, paper fibers, plant material, humus, etc.'" >org_particles</name>
 	</questions>
 	<questions>
 		<text>Organism count</text>
@@ -2204,11 +2204,11 @@
 	</questions>
 	<questions>
 		<text>Soluble inorganic material</text>
-		<name migs="M" definition="'concentration of substances such as ammonia, road-salt, sea-salt, cyanide, hydrogen sulfide, thiocyanates, thiosulfates, etcÉ'" >soluble_inorg_mat</name>
+		<name migs="M" definition="'concentration of substances such as ammonia, road-salt, sea-salt, cyanide, hydrogen sulfide, thiocyanates, thiosulfates, etc.'" >soluble_inorg_mat</name>
 	</questions>
 	<questions>
 		<text>Soluble organic material</text>
-		<name migs="M" definition="'concentration of substances such as urea, fruit sugars, soluble proteins, drugs, pharmaceuticals, etcÉ'" >soluble_org_mat</name>
+		<name migs="M" definition="'concentration of substances such as urea, fruit sugars, soluble proteins, drugs, pharmaceuticals, etc.'" >soluble_org_mat</name>
 	</questions>
 	<questions>
 		<text>Suspended solids</text>
@@ -2232,7 +2232,7 @@
 	</questions>
 	<questions>
 		<text>Wastewater type</text>
-		<name migs="M" definition="'the origin of wastewater such as human waste, rainfall, storm drains, etcÉ'" >wastewater_type</name>
+		<name migs="M" definition="'the origin of wastewater such as human waste, rainfall, storm drains, etc.'" >wastewater_type</name>
 <type>OOD_List</type>	</questions>
 </step>
 <step category="Environmentanl Package" exclusive="1">

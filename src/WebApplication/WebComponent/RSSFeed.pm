@@ -45,7 +45,7 @@ sub new {
   $self->{items} = [];
   $self->{max_display_items} = 3;
   $self->{show_RSS_link} = 1;
-  $self->{xml} = qq~<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+  $self->{xml} = qq~<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">~;
 
   $self->application->register_component('Ajax', 'RSSAjax');
